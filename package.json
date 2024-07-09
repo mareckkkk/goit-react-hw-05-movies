@@ -1,7 +1,7 @@
 {
   "name": "react-playground",
   "private": false,
-  "homepage": "https://github.com/mareckkkk/goit-react-hw-03-phonebook/",
+  "homepage": "https://github.com/mareckkkk/goit-react-hw-05-movies/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -13,10 +13,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "axios": "^1.7.2",
     "clsx": "^2.1.1",
     "lint": "^0.8.19",
+    "prop-types": "^15.8.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-loader-spinner": "^6.1.6",
     "react-router-dom": "^6.23.1",
     "save-dev": "^0.0.1-security"
   },
