@@ -1,0 +1,1 @@
+import{a as r,j as s,L as o}from"./index-DaKhgjUA.js";const a=({movies:t})=>{const n=r();return s.jsx("div",{children:s.jsx("ul",{children:t.map(i=>s.jsx("li",{children:s.jsx(o,{to:`/movies/${i.id}`,state:{from:n},children:i.title})},i.id))})})};export{a as T};
